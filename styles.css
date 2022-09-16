@@ -1,0 +1,30 @@
+h1{
+  font-size: 60px;
+  color: darkslateblue;
+  background-color: #EBDEF0;
+}
+h2
+{
+color:gray;
+}
+.head1:hover {
+  background-color: #95A5A6 ;
+}
+body{
+  background-color: papayawhip;
+}
+img{
+  border-radius: 100%;
+  width:60px;
+  height:60px;
+}
+img:hover{
+  background-color: green;
+}
+hr{
+  border-style: none;
+  border-top: dotted 5px;
+  width: 50px;
+  color:gray;
+
+}
